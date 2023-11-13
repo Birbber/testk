@@ -1,1 +1,8 @@
-#test
+! Title: AdGuard test filter
+! Description: no
+! Version: 0.0.6
+! TimeUpdated: 2023-05-16T16:31:35+03:00
+
+@@||gismeteo.ru^
+||ya.ru^
+@@||youtube.com^
